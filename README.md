@@ -3,7 +3,6 @@
 <br>
 <br/>
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Resume/CV         &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      GRA-PhD Letter
-
 <br>
 <br/>
 
