@@ -1,8 +1,6 @@
 #### MMU Graduate Research Assistant / PhD Student 
 <img align="left" width="100" height="100" src="https://github.com/AjayiEbenezer/AjayiEbenezer.github.io/blob/main/ebe.png">
 <br>
-<br>
-<br>
 <br/>
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Resume/CV**         &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      **GRA-PhD Letter** 
 <br>
