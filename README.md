@@ -69,3 +69,6 @@ Courses Taught
 <li>IEEE Access		    -	      November 2020 – Present</li>
 <li>IET Computer Vision 	-  	November 2020 – Present</li>  
 </ol>
+
+<a href="https://github.com/Ajayi-Ebe/AjayiEbenezer.github.io/files/7911785/CoverLetter.pdf" target="_blank">PhD Student</a>
+
